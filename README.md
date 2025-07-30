@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mridul Bindal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mridul-bindal&label=Profile%20views&color=0e75b6&style=flat" alt="mridul-bindal" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Deep Learning and LLM projects**
 
-- 🌱 I’m currently learning **Node Js, Express Js, Django, Machine Learning, Data Science**
+- 🌱 I’m currently learning **About GenAI , AI/ML , Pythorch , YOLO etc**
 
 - 👯 I’m looking to Participate in **Hackathons**
 
 - 📫 How to reach me **mridulbindal4@gmail.com**
 
-- ⚡ Fun fact **I like football**
+- ⚡ Fun fact **There is no one better than me in bowling with my eyes closed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
